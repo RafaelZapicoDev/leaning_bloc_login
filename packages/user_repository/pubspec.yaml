@@ -1,0 +1,10 @@
+name: user_repository
+description: pacote que vai controlar os dados do usuário
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  equatable: ^2.0.0
+  uuid: ^3.0.0
